@@ -1,0 +1,19 @@
+Sequence:
+
+@startuml
+actor User
+hide footbox
+
+User -> A: DoWork
+activate A
+A -> B: createRequest
+activate B
+B -> C: DoWork
+activate C
+C --> B: WorkDone
+destroy C
+B --> A: RequestCreated
+deactivate B
+A -> User: Done
+deactivate A
+@enduml
