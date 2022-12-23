@@ -1,11 +1,58 @@
 # learning-course
 
-Полезные материалы по курсу технического документирования
+**Полезные материалы по курсу технического документирования**:
 
-PlantText UML Editor: https://www.planttext.com/ 
+- Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
 
-Справочное руководство по языку PlantUML (Version 1.2021.2) https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf 
+- Справочное руководство по языку PlantUML (Version 1.2021.2) https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf 
 
-Карл Вигерс. Разработка требований к программному обеспечению: https://biconsult.ru/img/bi_portal/Razrabotka_trebovanii_Karl_Vigers.pdf 
+- Профстандарт 197 https://fgosvo.ru/uploadfiles/profstandart/06.019.pdf
 
-SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
+- Книга «Техническая документация информационных систем» http://lib.ulstu.ru/venec/disk/2017/460.pdf
+
+- Стиль изложения документации пользователя программного средства https://philosoft-services.com/standard/gostr_project_styleguide_071207.pdf
+
+- Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта [Текст] : (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012
+
+- Корректура https://moodle.kstu.ru/pluginfile.php/273789/mod_resource/content/1/Корректура.%20Учебник.pdf
+
+- Гайдлайн по интерфейсам мобильных приложений https://m3.material.io/get-started
+
+- Карл Вигерс. Разработка требований к программному обеспечению: https://biconsult.ru/img/bi_portal/Razrabotka_trebovanii_Karl_Vigers.pdf 
+
+- SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
+
+- Требования для программного обеспечения: рекомендации по сбору и документированию https://vk.com/doc63393685_444611874?hash=D7INqptGUz9UGJYqx3kr5ORpjJYImfL2OC3TREC06Nw
+
+- Список книг по работе с требованиями https://www.processimpact.com/pubs.html
+
+-	ГОСТ серии 19 и 34  http://www.rugost.com/index.php?option=com_content&view=category&id=19&Itemid=50
+	
+-	РД 50-34.698-90 Методические указания. Информационная технология. Комплекс стандартов и руководящих документов на автоматизированные системы. Требования к содержанию документов https://c-kd.ru/d/rd-50-34.698-90.pdf . Заменен на ГОСТ Р 59795–2021 «Комплекс стандартов на автоматизированные системы. Автоматизированные системы. Требования к содержанию документов» https://www.swrit.ru/doc/gost34/59795-2021.pdf 
+
+- Описание организации информационной базы http://www.rugost.com/index.php?option=com_content&view=article&id=172&catid=26&Itemid=63 
+
+**Видео материал**:
+
+- Через тернии к звездам – от неструктурированного контента к CMS, Елена Федотова https://dzen.ru/video/watch/6246d8c77cb10b6bb2dedfb0?f=d2d
+- Контент-стратегия, Елена Федотова: https://yandex.ru/video/preview/9288001768253760432
+- О технической документации Documentat.io https://www.youtube.com/watch?v=w0DNTDE3EgE
+- Documentat.io ГОСТ 34 (1 часть https://www.youtube.com/watch?v=Cb7oyeIjWZ8 и 2 часть  https://www.youtube.com/watch?v=NLXbsE_HOJY)
+- Documentat.io ГОСТ 19 https://www.youtube.com/watch?v=1P18VkS7ORQ 
+
+
+**Справочники, словари, рекомендации по работе с текстом**:
+
+•	Ильяхов maximilyahov.ru
+
+•	Розенталь www.rosental-book.ru и другие словари и справочники
+
+•	Лев Успенский «Слово о словах»
+
+•	Нора Галь «Слово живое и мёртвое» https://dramafond.ru/wp-content/uploads/2014/12/Nora_Gal_Slovo_zhivoe_i_mertvoe.pdf
+
+•	Мильчин. Справочник издателя и автора и editorium.ru
+
+•	Правила орфографии и пунктуации https://therules.ru/
+
+•	Как писать рук-во пользователя – https://tdocs.su/1391
