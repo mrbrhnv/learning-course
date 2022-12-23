@@ -32,6 +32,10 @@
 
 - Описание организации информационной базы http://www.rugost.com/index.php?option=com_content&view=article&id=172&catid=26&Itemid=63 
 
+- Система стандартов по информации, библиотечному и издательскому делу. Отчет о научно-исследовательской работе ГОСТ 7.32-2017 https://www.rea.ru/ru/org/managements/orgnirupr/Documents/gost_7.32-2017.pdf
+
+- Государственная система обеспечения единства измерений ГОСТ 8.417-2002 https://astro.insma.urfu.ru/sites/default/files/upload_files/doc/gost_8.417-2002.pdf
+
 **Видео материал**:
 
 - Через тернии к звездам – от неструктурированного контента к CMS, Елена Федотова https://dzen.ru/video/watch/6246d8c77cb10b6bb2dedfb0?f=d2d
