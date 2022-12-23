@@ -63,7 +63,7 @@
 
 •	Нора Галь «Слово живое и мёртвое» https://dramafond.ru/wp-content/uploads/2014/12/Nora_Gal_Slovo_zhivoe_i_mertvoe.pdf
 
-•	Мильчин. Справочник издателя и автора и editorium.ru
+•	Мильчин. Справочник издателя и автора https://vk.com/doc205672900_491943677?hash=7rZ6yUooOFXoRJH56dPcwKQiwkITzlzCnLlesacVpzH и [editorium.ru](https://editorium.ru/)
 
 •	Правила орфографии и пунктуации https://therules.ru/
 
