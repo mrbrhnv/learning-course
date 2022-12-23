@@ -24,6 +24,8 @@
 
 - Требования для программного обеспечения: рекомендации по сбору и документированию https://vk.com/doc63393685_444611874?hash=D7INqptGUz9UGJYqx3kr5ORpjJYImfL2OC3TREC06Nw
 
+- Требования. Системная инженерия, лекция 4 https://studfile.net/preview/2152457/
+
 - Список книг по работе с требованиями https://www.processimpact.com/pubs.html
 
 -	ГОСТ серии 19 и 34  http://www.rugost.com/index.php?option=com_content&view=category&id=19&Itemid=50
@@ -35,6 +37,12 @@
 - Система стандартов по информации, библиотечному и издательскому делу. Отчет о научно-исследовательской работе ГОСТ 7.32-2017 https://www.rea.ru/ru/org/managements/orgnirupr/Documents/gost_7.32-2017.pdf
 
 - Государственная система обеспечения единства измерений ГОСТ 8.417-2002 https://astro.insma.urfu.ru/sites/default/files/upload_files/doc/gost_8.417-2002.pdf
+
+- Уайт, Ян В. Редактируем дизайном. — М. Издательский дом «Университетская книга», 2009. — X, 244 с. https://drive.google.com/open?id=1MO2A_MO9rFjAByZQzBafRvUawIuzs-w3
+
+- Руководство по стилю русского языка в рамках локализации https://www.microsoft.com/ru-ru/language/styleguides (использовать его нужно аккуратно и разумно, не все примеры в нем хороши и не все рекомендации стоит брать на вооружение)
+
+
 
 **Видео материал**:
 
