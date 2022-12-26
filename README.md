@@ -42,9 +42,11 @@
 
 - Руководство по стилю русского языка в рамках локализации https://www.microsoft.com/ru-ru/language/styleguides (использовать его нужно аккуратно и разумно, не все примеры в нем хороши и не все рекомендации стоит брать на вооружение)
 
+**Англоязычная литература**:
 
+- Docs for Developers: An Engineer’s Field Guide to Technical Writing (2021). Автор: Jared Bhatti https://vk.com/doc255577237_616040006?hash=3q9IYa52IoFRnHHtn7hCObEnp9E7HKsK8xhltV5OAUP
 
-**Видео материал**:
+**Видеоматериал**:
 
 - Через тернии к звездам – от неструктурированного контента к CMS, Елена Федотова https://dzen.ru/video/watch/6246d8c77cb10b6bb2dedfb0?f=d2d
 - Контент-стратегия, Елена Федотова: https://yandex.ru/video/preview/9288001768253760432
@@ -55,24 +57,30 @@
 
 **Справочники, словари, рекомендации по работе с текстом**:
 
-•	Ильяхов maximilyahov.ru
-
-•	Розенталь www.rosental-book.ru и другие словари и справочники
-
-•	Лев Успенский «Слово о словах»
-
-•	Нора Галь «Слово живое и мёртвое» https://dramafond.ru/wp-content/uploads/2014/12/Nora_Gal_Slovo_zhivoe_i_mertvoe.pdf
-
-•	Мильчин. Справочник издателя и автора https://vk.com/doc205672900_491943677?hash=7rZ6yUooOFXoRJH56dPcwKQiwkITzlzCnLlesacVpzH и [editorium.ru](https://editorium.ru/)
-
-•	Правила орфографии и пунктуации https://therules.ru/
-
-•	Как писать рук-во пользователя – https://tdocs.su/1391
+- Ильяхов maximilyahov.ru
+- Розенталь www.rosental-book.ru и другие словари и справочники
+- Лев Успенский «Слово о словах»
+- Нора Галь «Слово живое и мёртвое» https://dramafond.ru/wp-content/uploads/2014/12/Nora_Gal_Slovo_zhivoe_i_mertvoe.pdf
+- Мильчин. Справочник издателя и автора https://vk.com/doc205672900_491943677?hash=7rZ6yUooOFXoRJH56dPcwKQiwkITzlzCnLlesacVpzH и [editorium.ru](https://editorium.ru/)
+- Правила орфографии и пунктуации https://therules.ru/
+- Как писать рук-во пользователя – https://tdocs.su/1391
 
 **Интересные статьи**:
 
 - Требования ГОСТ на автоматизированные системы в ИБ-проектах. Что изменилось и как это применять? https://habr.com/ru/company/angarasecurity/blog/671882/
 - Документирование по ГОСТ 34* — это просто (плюсы и минусы) https://habr.com/ru/post/122700/
+- Как писать техническое задание на программу по ГОСТ 19.201-78? https://tdocs.su/12215
 - Стандарты и шаблоны для ТЗ на разработку ПО https://habr.com/ru/post/328822/ 
 - Правила составления Software requirements specification (читать вместе с комментариями) https://habr.com/ru/post/52681/
 - ГОСТ-овский стиль управления. Статья Gaperton по правильной работе с ТЗ по ГОСТ https://gaperton.livejournal.com/49867.html
+
+**Редстандарты** (можно вдохновляться):
+
+- Тинькофф-журнал. Руководство для авторов. Максим Ильяхов, Саша Рай, 2014—2019 гг. https://docs.google.com/document/d/14XdGIjVJLM_FsjHzyh5ca8PkffngykzXd2bLPHzA2ME/edit#
+- Модульбанк. Написано в июле 2016, автор — Людмила Сарычева.  https://docs.google.com/document/d/1c_2uP1PpiM12h1ee8egVXAoUCJ9mE9r68zMqrqmS8VA/edit
+
+**Инструменты**:
+
+- Типограф https://www.artlebedev.ru/typograf/ для улучшения экранной типографики
+- Утилита «Новый взгляд» http://www.kirsanov.com/fresheye/ для исключения речевых ошибок
+
