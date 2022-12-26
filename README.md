@@ -2,40 +2,26 @@
 
 **Полезные материалы по курсу технического документирования**:
 
-- Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
-
-- Справочное руководство по языку PlantUML (Version 1.2021.2) https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf 
+- Справочное руководство по языку PlantUML (Version 1.2021.2) https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 - Профстандарт 197 https://fgosvo.ru/uploadfiles/profstandart/06.019.pdf
-
 - Книга «Техническая документация информационных систем» http://lib.ulstu.ru/venec/disk/2017/460.pdf
 
 - Стиль изложения документации пользователя программного средства https://philosoft-services.com/standard/gostr_project_styleguide_071207.pdf
-
 - Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта [Текст] : (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012
-
 - Корректура https://moodle.kstu.ru/pluginfile.php/273789/mod_resource/content/1/Корректура.%20Учебник.pdf
-
 - Гайдлайн по интерфейсам мобильных приложений https://m3.material.io/get-started
 
 - Карл Вигерс. Разработка требований к программному обеспечению: https://biconsult.ru/img/bi_portal/Razrabotka_trebovanii_Karl_Vigers.pdf 
-
 - SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
-
 - Требования для программного обеспечения: рекомендации по сбору и документированию https://vk.com/doc63393685_444611874?hash=D7INqptGUz9UGJYqx3kr5ORpjJYImfL2OC3TREC06Nw
-
 - Требования. Системная инженерия, лекция 4 https://studfile.net/preview/2152457/
-
 - Список книг по работе с требованиями https://www.processimpact.com/pubs.html
 
--	ГОСТ серии 19 и 34  http://www.rugost.com/index.php?option=com_content&view=category&id=19&Itemid=50
-	
--	РД 50-34.698-90 Методические указания. Информационная технология. Комплекс стандартов и руководящих документов на автоматизированные системы. Требования к содержанию документов https://c-kd.ru/d/rd-50-34.698-90.pdf . Заменен на ГОСТ Р 59795–2021 «Комплекс стандартов на автоматизированные системы. Автоматизированные системы. Требования к содержанию документов» https://www.swrit.ru/doc/gost34/59795-2021.pdf 
-
+- ГОСТ серии 19 и 34  http://www.rugost.com/index.php?option=com_content&view=category&id=19&Itemid=50
+- РД 50-34.698-90 Методические указания. Информационная технология. Комплекс стандартов и руководящих документов на автоматизированные системы. Требования к содержанию документов https://c-kd.ru/d/rd-50-34.698-90.pdf . Заменен на ГОСТ Р 59795–2021 «Комплекс стандартов на автоматизированные системы. Автоматизированные системы. Требования к содержанию документов» https://www.swrit.ru/doc/gost34/59795-2021.pdf 
 - Описание организации информационной базы http://www.rugost.com/index.php?option=com_content&view=article&id=172&catid=26&Itemid=63 
-
 - Система стандартов по информации, библиотечному и издательскому делу. Отчет о научно-исследовательской работе ГОСТ 7.32-2017 https://www.rea.ru/ru/org/managements/orgnirupr/Documents/gost_7.32-2017.pdf
-
 - Государственная система обеспечения единства измерений ГОСТ 8.417-2002 https://astro.insma.urfu.ru/sites/default/files/upload_files/doc/gost_8.417-2002.pdf
 
 - Уайт, Ян В. Редактируем дизайном. — М. Издательский дом «Университетская книга», 2009. — X, 244 с. https://drive.google.com/open?id=1MO2A_MO9rFjAByZQzBafRvUawIuzs-w3
@@ -83,4 +69,5 @@
 
 - Типограф https://www.artlebedev.ru/typograf/ для улучшения экранной типографики
 - Утилита «Новый взгляд» http://www.kirsanov.com/fresheye/ для исключения речевых ошибок
+- Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
 
