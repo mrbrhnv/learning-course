@@ -39,6 +39,8 @@
 - О технической документации Documentat.io https://www.youtube.com/watch?v=w0DNTDE3EgE
 - Documentat.io ГОСТ 34 (1 часть https://www.youtube.com/watch?v=Cb7oyeIjWZ8 и 2 часть  https://www.youtube.com/watch?v=NLXbsE_HOJY)
 - Documentat.io ГОСТ 19 https://www.youtube.com/watch?v=1P18VkS7ORQ 
+- Виды требований к ПО и способы их документирования (функциональные и нефункциональные требования, бизнес требования и требования стейкхолдеров; инструменты – user story, use cases) https://www.youtube.com/watch?v=GVmDXR_Qg2c (Надежда Тарасова, DataArt)
+- Виды и примеры требований https://www.youtube.com/watch?v=CUmKvqGgWMc (Денис Бесков, 2013)
 
 
 **Справочники, словари, рекомендации по работе с текстом**:
