@@ -8,9 +8,9 @@
 - Книга «Техническая документация информационных систем» http://lib.ulstu.ru/venec/disk/2017/460.pdf
 
 - Стиль изложения документации пользователя программного средства https://philosoft-services.com/standard/gostr_project_styleguide_071207.pdf
-- Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта: (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012
+- Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта: (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012 [скачать конспект](resources/Конспект_Кагарлицкий.docx)
 - Корректура https://moodle.kstu.ru/pluginfile.php/273789/mod_resource/content/1/Корректура.%20Учебник.pdf
-- Гайдлайн по интерфейсам мобильных приложений https://m3.material.io/get-started
+- Гайдлайн по интерфейсам мобильных приложений https://m3.material.io/get-started [скачать конспект](resources/Терминология_описания_интерфейса.docx)
 
 - Карл Вигерс. Разработка требований к программному обеспечению: https://biconsult.ru/img/bi_portal/Razrabotka_trebovanii_Karl_Vigers.pdf 
 - SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
@@ -30,7 +30,8 @@
 
 **Англоязычная литература**:
 
-- Docs for Developers: An Engineer’s Field Guide to Technical Writing (2021). Автор: Jared Bhatti https://vk.com/doc255577237_616040006?hash=3q9IYa52IoFRnHHtn7hCObEnp9E7HKsK8xhltV5OAUP
+- Docs for Developers: An Engineer’s Field Guide to Technical Writing (2021). Автор: Jared Bhatti, https://vk.com/doc255577237_616040006?hash=3q9IYa52IoFRnHHtn7hCObEnp9E7HKsK8xhltV5OAUP
+- Technical Writing 101: A Real-World Guide to Planning and Writing Technical Documentation. Автор: Alan S. Pringle, [скачать книгу](resources/Technical_Writing_101.pdf)
 
 **Видеоматериал**:
 
@@ -72,4 +73,3 @@
 - Типограф https://www.artlebedev.ru/typograf/ для улучшения экранной типографики
 - Утилита «Новый взгляд» http://www.kirsanov.com/fresheye/ для исключения речевых ошибок
 - Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
-
