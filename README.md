@@ -76,4 +76,4 @@
 - Типограф https://www.artlebedev.ru/typograf/ для улучшения экранной типографики
 - Утилита «Новый взгляд» http://www.kirsanov.com/fresheye/ для исключения речевых ошибок
 - Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
-- Онлайн-сервис для оценки читабельности текста http://readability.io/
+- Онлайн-сервисы для оценки читабельности текста http://readability.io/ и https://glvrd.ru/
