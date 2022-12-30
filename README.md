@@ -49,6 +49,8 @@
 
 - Ильяхов maximilyahov.ru
 - Розенталь www.rosental-book.ru и другие словари и справочники
+- http://gramota.ru/ поиск по орфографическому, толковому и другим словарям. При поиске слов можно использовать подстановочные символы звездочка (*) и вопросительный знак (?). Пример: бэк*
+- [Орфографический академический ресурс «АКАДЕМОС»](https://orfo.ruslang.ru/search/word): поддерживаемый ИРЯ РАН агрегатор актуальных орфографических норм
 - Лев Успенский «Слово о словах»
 - Нора Галь «Слово живое и мёртвое» https://dramafond.ru/wp-content/uploads/2014/12/Nora_Gal_Slovo_zhivoe_i_mertvoe.pdf
 - Мильчин. Справочник издателя и автора https://vk.com/doc205672900_491943677?hash=7rZ6yUooOFXoRJH56dPcwKQiwkITzlzCnLlesacVpzH и [editorium.ru](https://editorium.ru/)
