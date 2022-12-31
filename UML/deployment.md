@@ -21,7 +21,6 @@ database "TaskQueue" as taskqueue {
 }
 }
 }
-
 actor User as user
 scrape --> github : scraping
 scrape -r-> bucket : put GitHub urls
