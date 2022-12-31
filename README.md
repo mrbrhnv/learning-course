@@ -57,6 +57,7 @@
 - Мильчин. Справочник издателя и автора https://vk.com/doc205672900_491943677?hash=7rZ6yUooOFXoRJH56dPcwKQiwkITzlzCnLlesacVpzH и [editorium.ru](https://editorium.ru/)
 - Правила орфографии и пунктуации https://therules.ru/
 - Как писать рук-во пользователя – https://tdocs.su/1391
+- [Рекомендации по оформлению текстов от РИА](resources/Рекомендации_по_оформлению_текстов_от_РИА.pdf)
 
 **Интересные статьи**:
 
