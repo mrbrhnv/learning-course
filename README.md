@@ -33,6 +33,7 @@
 
 - Docs for Developers: An Engineer’s Field Guide to Technical Writing (2021). Автор: Jared Bhatti, https://vk.com/doc255577237_616040006?hash=3q9IYa52IoFRnHHtn7hCObEnp9E7HKsK8xhltV5OAUP
 - Technical Writing 101: A Real-World Guide to Planning and Writing Technical Documentation. Автор: Alan S. Pringle, [скачать книгу](resources/Technical_Writing_101.pdf)
+- DocBook XSL: The Complete Guide. Bob Stayton, http://www.sagehill.net/docbookxsl/index.html 
 
 **Видеоматериал**:
 
