@@ -86,4 +86,6 @@
 - Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
 - Онлайн-сервисы для оценки читабельности текста: http://readability.io/ и https://glvrd.ru/
 - Инструменты для перевода: https://www.deepl.com/translator и https://www.translate.ru/перевод
+- Инструмент для моделирования диаграмм и блок-схем бизнес-процессов https://app.diagrams.net/ 
+
 
