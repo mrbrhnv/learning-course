@@ -69,6 +69,7 @@
 - Правила составления Software requirements specification (читать вместе с комментариями) https://habr.com/ru/post/52681/
 - ГОСТ-овский стиль управления. Статья Gaperton по правильной работе с ТЗ по ГОСТ https://gaperton.livejournal.com/49867.html
 - Принцип единого источника. Часть II (профилирование, компоновка, параметризация) https://ru-techwriters.livejournal.com/15793.html
+- Культура локализации ПО, есть ли она? https://habr.com/ru/post/573834/
 
 
 **Редстандарты** (можно вдохновляться):
