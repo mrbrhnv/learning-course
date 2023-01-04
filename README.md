@@ -10,7 +10,7 @@
 - Стиль изложения документации пользователя программного средства https://philosoft-services.com/standard/gostr_project_styleguide_071207.pdf
 - Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта: (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012 [скачать конспект](resources/Конспект_Кагарлицкий.docx)
 - Корректура https://moodle.kstu.ru/pluginfile.php/273789/mod_resource/content/1/Корректура.%20Учебник.pdf
-- Гайдлайн по интерфейсам мобильных приложений https://m3.material.io/get-started [скачать конспект](resources/Терминология_описания_интерфейса.docx)
+- Гайдлайн по интерфейсам мобильных приложений https://m3.material.io/get-started ([скачать конспект](resources/Терминология_описания_интерфейса.docx))
 
 - Карл Вигерс. Разработка требований к программному обеспечению: https://biconsult.ru/img/bi_portal/Razrabotka_trebovanii_Karl_Vigers.pdf 
 - SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
