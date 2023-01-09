@@ -16,11 +16,10 @@
 - SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
 - Требования для программного обеспечения: рекомендации по сбору и документированию https://vk.com/doc63393685_444611874?hash=D7INqptGUz9UGJYqx3kr5ORpjJYImfL2OC3TREC06Nw
 - Требования. Системная инженерия, лекция 4 https://studfile.net/preview/2152457/
-- Список книг по работе с требованиями https://www.processimpact.com/pubs.html
 
 - ГОСТ серии 19 и 34 http://www.rugost.com/index.php?option=com_content&view=category&id=19&Itemid=50
 - ГОСТ Р ИСО/МЭК 15910-2002 http://gostrf.com/normadata/1/4294817/4294817037.pdf (Процесс создания документации пользователя программного средства)
-- РД 50-34.698-90 Методические указания. Информационная технология. Комплекс стандартов и руководящих документов на автоматизированные системы. Требования к содержанию документов https://c-kd.ru/d/rd-50-34.698-90.pdf . Заменен на ГОСТ Р 59795–2021 «Комплекс стандартов на автоматизированные системы. Автоматизированные системы. Требования к содержанию документов» https://www.swrit.ru/doc/gost34/59795-2021.pdf 
+- РД 50-34.698-90 Методические указания. Информационная технология. Комплекс стандартов и руководящих документов на автоматизированные системы. Требования к содержанию документов https://c-kd.ru/d/rd-50-34.698-90.pdf. Заменен на ГОСТ Р 59795–2021 «Комплекс стандартов на автоматизированные системы. Автоматизированные системы. Требования к содержанию документов» https://www.swrit.ru/doc/gost34/59795-2021.pdf 
 - Описание организации информационной базы http://www.rugost.com/index.php?option=com_content&view=article&id=172&catid=26&Itemid=63 
 - Система стандартов по информации, библиотечному и издательскому делу. Отчет о научно-исследовательской работе ГОСТ 7.32-2017 https://www.rea.ru/ru/org/managements/orgnirupr/Documents/gost_7.32-2017.pdf
 - Государственная система обеспечения единства измерений ГОСТ 8.417-2002 https://astro.insma.urfu.ru/sites/default/files/upload_files/doc/gost_8.417-2002.pdf
@@ -35,6 +34,7 @@
 
 - Docs for Developers: An Engineer’s Field Guide to Technical Writing (2021). Автор: Jared Bhatti, https://vk.com/doc255577237_616040006?hash=3q9IYa52IoFRnHHtn7hCObEnp9E7HKsK8xhltV5OAUP
 - Technical Writing 101: A Real-World Guide to Planning and Writing Technical Documentation. Автор: Alan S. Pringle, [скачать книгу](resources/Technical_Writing_101.pdf)
+- Список книг по работе с требованиями https://www.processimpact.com/pubs.html
 - DocBook XSL: The Complete Guide. Bob Stayton, http://www.sagehill.net/docbookxsl/index.html 
 
 **Видеоматериал**:
