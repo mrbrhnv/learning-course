@@ -42,12 +42,14 @@
 - Через тернии к звездам – от неструктурированного контента к CMS, Елена Федотова https://dzen.ru/video/watch/6246d8c77cb10b6bb2dedfb0?f=d2d
 - Контент-стратегия, Елена Федотова: https://yandex.ru/video/preview/9288001768253760432
 - О технической документации Documentat.io https://www.youtube.com/watch?v=w0DNTDE3EgE
-- Documentat.io ГОСТ 34 (1 часть https://www.youtube.com/watch?v=Cb7oyeIjWZ8 и 2 часть  https://www.youtube.com/watch?v=NLXbsE_HOJY)
+- Documentat.io ГОСТ 34 (1 часть https://www.youtube.com/watch?v=Cb7oyeIjWZ8, 2 часть  https://www.youtube.com/watch?v=NLXbsE_HOJY, 3 часть https://www.youtube.com/watch?v=O9896hB0DSM)
 - Documentat.io ГОСТ 19 https://www.youtube.com/watch?v=1P18VkS7ORQ 
 - Виды требований к ПО и способы их документирования (функциональные и нефункциональные требования, бизнес требования и требования стейкхолдеров; инструменты – user story, use cases) https://www.youtube.com/watch?v=GVmDXR_Qg2c (Надежда Тарасова, DataArt)
 - Виды и примеры требований https://www.youtube.com/watch?v=CUmKvqGgWMc (Денис Бесков, 2013)
-- Оценка трудозатрат и сроков документирования https://www.youtube.com/watch?v=qpcfAPnsBTE (Александр Лебедев, "Философт") 
-
+- Оценка трудозатрат и сроков документирования https://www.youtube.com/watch?v=qpcfAPnsBTE (Александр Лебедев, "Философт")
+- Локализация документации (documentat.io) https://www.youtube.com/watch?v=UYRKX1ZuUzw
+- Требования к документационному инструментарию (documentat.io) https://www.youtube.com/watch?v=Sawz84gY4Uk (Основы – для чего нужен инструментарий (разработка, ревью, хранение, публикация). Но, конечно, не про создание процессов ревью)
+- Весь Adobe за 10 минут. Что для чего используются и чем они отличаются https://www.youtube.com/watch?v=LABp_5yv5DE
 
 **Справочники, словари, рекомендации по работе с текстом**:
 
@@ -72,6 +74,7 @@
 - ГОСТ-овский стиль управления. Статья Gaperton по правильной работе с ТЗ по ГОСТ https://gaperton.livejournal.com/49867.html
 - Принцип единого источника. Часть II (профилирование, компоновка, параметризация) https://ru-techwriters.livejournal.com/15793.html
 - Культура локализации ПО, есть ли она? https://habr.com/ru/post/573834/
+- Разработка документации при помощи DocBook: https://habr.com/ru/post/212881/
 
 
 **Редстандарты** (можно вдохновляться):
@@ -87,5 +90,10 @@
 - Онлайн-сервисы для оценки читабельности текста: http://readability.io/ и https://glvrd.ru/
 - Инструменты для перевода: https://www.deepl.com/translator и https://www.translate.ru/перевод
 - Инструмент для моделирования диаграмм и блок-схем бизнес-процессов https://app.diagrams.net/ 
+
+**Docs as code**
+
+- Docs as code на примере Foliant https://www.youtube.com/watch?v=6CKVodl2YcA (полезное видео про легковесные языки разметки – markdown, reStructuredText, AsciiDoc; про системы контроля версий)
+- Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
