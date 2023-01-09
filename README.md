@@ -74,8 +74,8 @@
 - ГОСТ-овский стиль управления. Статья Gaperton по правильной работе с ТЗ по ГОСТ https://gaperton.livejournal.com/49867.html
 - Принцип единого источника. Часть II (профилирование, компоновка, параметризация) https://ru-techwriters.livejournal.com/15793.html
 - Культура локализации ПО, есть ли она? https://habr.com/ru/post/573834/
+- 10 отличий локализации от перевода https://translator-school.com/blog/lokalizaciya-igr-i-perevod-v-chem-raznicza
 - Разработка документации при помощи DocBook: https://habr.com/ru/post/212881/
-
 
 **Редстандарты** (можно вдохновляться):
 
@@ -86,6 +86,7 @@
 
 - Типограф https://www.artlebedev.ru/typograf/ для улучшения экранной типографики
 - Утилита «Новый взгляд» http://www.kirsanov.com/fresheye/ для исключения речевых ошибок
+- Яндекс Спеллер помогает находить и исправлять орфографические ошибки https://yandex.ru/dev/speller/
 - Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
 - Онлайн-сервисы для оценки читабельности текста: http://readability.io/ и https://glvrd.ru/
 - Инструменты для перевода: https://www.deepl.com/translator и https://www.translate.ru/перевод
