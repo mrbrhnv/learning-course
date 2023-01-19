@@ -96,6 +96,7 @@
 **Docs as code**
 
 - Docs as code на примере Foliant https://www.youtube.com/watch?v=6CKVodl2YcA (полезное видео про легковесные языки разметки – markdown, reStructuredText, AsciiDoc; про системы контроля версий)
-- Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- Markdown Cheat sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- reStructuredText Cheat Sheet https://docutils.sourceforge.io/rst.html#user-documentation
 
 
