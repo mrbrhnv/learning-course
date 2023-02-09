@@ -92,7 +92,7 @@
 - Утилита «Новый взгляд» http://www.kirsanov.com/fresheye/ для исключения речевых ошибок
 - Яндекс Спеллер помогает находить и исправлять орфографические ошибки https://yandex.ru/dev/speller/
 - Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
-- Онлайн-сервисы для оценки читаемости текста: http://readability.io/ и https://glvrd.ru/
+- Онлайн-сервисы для оценки читаемости текста: http://readability.io/ и https://glvrd.ru/ (для английского языка – https://hemingwayapp.com/)
 - Умная проверка пунктуации, грамматики и стилистики на основе машинного обучения: https://orfogrammka.ru/
 - Инструменты для перевода: https://www.deepl.com/translator и https://www.translate.ru/перевод
 - Инструмент для моделирования диаграмм и блок-схем бизнес-процессов https://app.diagrams.net/ 
