@@ -86,6 +86,7 @@
 
 - Тинькофф-журнал. Руководство для авторов. Максим Ильяхов, Саша Рай, 2014—2019 гг. https://docs.google.com/document/d/14XdGIjVJLM_FsjHzyh5ca8PkffngykzXd2bLPHzA2ME/edit#
 - Модульбанк. Написано в июле 2016, автор — Людмила Сарычева.  https://docs.google.com/document/d/1c_2uP1PpiM12h1ee8egVXAoUCJ9mE9r68zMqrqmS8VA/edit
+– Mailchimp Content Style Guide https://styleguide.mailchimp.com/
 
 **Инструменты**:
 
