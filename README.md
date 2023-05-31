@@ -81,6 +81,7 @@
 - Культура локализации ПО, есть ли она? https://habr.com/ru/post/573834/
 - 10 отличий локализации от перевода https://translator-school.com/blog/lokalizaciya-igr-i-perevod-v-chem-raznicza
 - Разработка документации при помощи DocBook: https://habr.com/ru/post/212881/
+- Ланит: О нашем умении писать по-русски IT-документацию https://habr.com/ru/companies/lanit/articles/722224/
 
 **Редстандарты** (можно вдохновляться):
 
