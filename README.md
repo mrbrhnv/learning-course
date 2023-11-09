@@ -50,6 +50,7 @@
 - Documentat.io ГОСТ 19 https://www.youtube.com/watch?v=1P18VkS7ORQ
 - Конференции ПроТекст: https://protext.su/pro/events/ («Видеодокументация», «Инструменты технического писателя», вебинар для руководителей «Техническое документирование для бизнеса: проблемы и решения»)
 - Kaspersky Tech. База знаний здорового техписа: https://careers.kaspersky.ru/events/kaspersky-tech-knowledge
+- ProКонтент 2019: три хардовых доклада и частушка: https://habr.com/ru/companies/kaspersky/articles/448430/
 - Виды требований к ПО и способы их документирования (функциональные и нефункциональные требования, бизнес требования и требования стейкхолдеров; инструменты – user story, use cases) https://www.youtube.com/watch?v=GVmDXR_Qg2c (Надежда Тарасова, DataArt)
 - Виды и примеры требований https://www.youtube.com/watch?v=CUmKvqGgWMc (Денис Бесков, 2013)
 - Оценка трудозатрат и сроков документирования https://www.youtube.com/watch?v=qpcfAPnsBTE (Александр Лебедев, "Философт")
