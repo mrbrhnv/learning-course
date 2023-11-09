@@ -47,7 +47,8 @@
 - Контент-стратегия, Елена Федотова: https://yandex.ru/video/preview/9288001768253760432
 - О технической документации Documentat.io https://www.youtube.com/watch?v=w0DNTDE3EgE
 - Documentat.io ГОСТ 34 (1 часть https://www.youtube.com/watch?v=Cb7oyeIjWZ8, 2 часть  https://www.youtube.com/watch?v=NLXbsE_HOJY, 3 часть https://www.youtube.com/watch?v=O9896hB0DSM)
-- Documentat.io ГОСТ 19 https://www.youtube.com/watch?v=1P18VkS7ORQ 
+- Documentat.io ГОСТ 19 https://www.youtube.com/watch?v=1P18VkS7ORQ
+- Конференции ПроТекст: https://protext.su/pro/events/ («Видеодокументация», «Инструменты технического писателя», вебинар для руководителей «Техническое документирование для бизнеса: проблемы и решения»)
 - Виды требований к ПО и способы их документирования (функциональные и нефункциональные требования, бизнес требования и требования стейкхолдеров; инструменты – user story, use cases) https://www.youtube.com/watch?v=GVmDXR_Qg2c (Надежда Тарасова, DataArt)
 - Виды и примеры требований https://www.youtube.com/watch?v=CUmKvqGgWMc (Денис Бесков, 2013)
 - Оценка трудозатрат и сроков документирования https://www.youtube.com/watch?v=qpcfAPnsBTE (Александр Лебедев, "Философт")
