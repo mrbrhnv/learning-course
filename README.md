@@ -45,7 +45,7 @@
 - Профессиональный стандарт «Технический писатель». Михаил Острогорский (DocFactor'16) https://www.youtube.com/watch?v=KBiEkOLFnNw (правовая природа; как выглядит профстандарт; основные области компетентности и уровни квалификации; различия в профессиях техписа и аналитика)
 - Через тернии к звездам – от неструктурированного контента к CMS, Елена Федотова https://dzen.ru/video/watch/6246d8c77cb10b6bb2dedfb0?f=d2d
 - Контент-стратегия, Елена Федотова: https://yandex.ru/video/preview/9288001768253760432
-- О технической документации Documentat.io https://www.youtube.com/watch?v=w0DNTDE3EgE
+- О технической документации Documentat.io https://www.youtube.com/live/w0DNTDE3EgE?si=r0h89VT_RV6o0M4l
 - Documentat.io ГОСТ 34 (1 часть https://www.youtube.com/watch?v=Cb7oyeIjWZ8, 2 часть  https://www.youtube.com/watch?v=NLXbsE_HOJY, 3 часть https://www.youtube.com/watch?v=O9896hB0DSM)
 - Documentat.io ГОСТ 19 https://www.youtube.com/watch?v=1P18VkS7ORQ
 - Конференции ПроТекст: https://protext.su/pro/events/ («Видеодокументация», «Инструменты технического писателя», вебинар для руководителей «Техническое документирование для бизнеса: проблемы и решения»)
