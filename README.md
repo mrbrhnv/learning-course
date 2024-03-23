@@ -2,8 +2,7 @@
 
 **Полезные материалы по курсу технического документирования**:
 
-- Справочное руководство по языку PlantUML (Version 1.2021.2) https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
-
+- Technical Writer. Roadmap for anyone looking for a career in technical writing https://roadmap.sh/technical-writer
 - Профстандарт 197 https://fgosvo.ru/uploadfiles/profstandart/06.019.pdf
 - Книга «Техническая документация информационных систем» http://lib.ulstu.ru/venec/disk/2017/460.pdf
 
@@ -71,6 +70,7 @@
 - Как писать рук-во пользователя – https://tdocs.su/1391
 - [Рекомендации по оформлению текстов от РИА](resources/Рекомендации_по_оформлению_текстов_от_РИА.pdf)
 - Словарь сокращений https://www.sokr.ru/с./
+- Справочное руководство по языку PlantUML (Version 1.2021.2) https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 **Интересные статьи**:
 
