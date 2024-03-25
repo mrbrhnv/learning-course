@@ -85,7 +85,8 @@
 - 10 отличий локализации от перевода https://translator-school.com/blog/lokalizaciya-igr-i-perevod-v-chem-raznicza
 - Разработка документации при помощи DocBook: https://habr.com/ru/post/212881/
 - Ланит: О нашем умении писать по-русски IT-документацию https://habr.com/ru/companies/lanit/articles/722224/
-- Внешний вид и скриншоты в пользовательской документации. Как надо и не надо делать (Анастасия Дмитриева): https://habr.com/ru/companies/aktiv-company/articles/524838/ 
+- Внешний вид и скриншоты в пользовательской документации. Как надо и не надо делать (Анастасия Дмитриева): https://habr.com/ru/companies/aktiv-company/articles/524838/
+- UML: обзор основных типов диаграмм (цикл статей): Часть 1 [диаграмма классов](https://habr.com/ru/articles/738428/), Часть 2 [диаграмма компонентов](https://habr.com/ru/articles/756552/), Часть 3 [диаграмма объектов](https://habr.com/ru/articles/800849/), [Обзор 14 диаграмм UML](https://habr.com/ru/articles/508710/)
 
 **Редстандарты** (можно вдохновляться):
 
