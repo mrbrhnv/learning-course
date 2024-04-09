@@ -32,6 +32,8 @@
 
 - Методическое и справочное руководство **по переводу на русский язык**, тематическому редактированию, литературной правке и редакционно-издательскому оформлению инженерно-технической документации https://storage.piter.com/upload/new_folder/978538800101/metodichka_2007_04_bp.pdf
 
+- Курс по написанию спецификации API https://starkovden.github.io/openapi-tutorial-overview.html 
+
 **Англоязычная литература**:
 
 - Docs for Developers: An Engineer’s Field Guide to Technical Writing (2021). Автор: Jared Bhatti, https://vk.com/doc255577237_616040006?hash=3q9IYa52IoFRnHHtn7hCObEnp9E7HKsK8xhltV5OAUP
