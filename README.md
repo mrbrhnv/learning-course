@@ -8,11 +8,14 @@
 
 - Разработка технической документации, Вадим Глаголев: https://djvu.online/file/oJAAVWz7GUO8T 
 - Корректура https://moodle.kstu.ru/pluginfile.php/273789/mod_resource/content/1/Корректура.%20Учебник.pdf
+- Уайт, Ян В. Редактируем дизайном. — М. Издательский дом «Университетская книга», 2009. — X, 244 с. https://drive.google.com/open?id=1MO2A_MO9rFjAByZQzBafRvUawIuzs-w3
 
 - Карл Вигерс. Разработка требований к программному обеспечению: https://biconsult.ru/img/bi_portal/Razrabotka_trebovanii_Karl_Vigers.pdf 
 - SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
 - Требования для программного обеспечения: рекомендации по сбору и документированию https://vk.com/doc63393685_444611874?hash=D7INqptGUz9UGJYqx3kr5ORpjJYImfL2OC3TREC06Nw
 - Требования. Системная инженерия, лекция 4 https://studfile.net/preview/2152457/
+
+**ГОСТы**:
 
 - ГОСТ серии 19 и 34 http://www.rugost.com/index.php?option=com_content&view=category&id=19&Itemid=50
 - ГОСТ Р ИСО/МЭК 15910-2002. Процесс создания документации пользователя программного средства http://gostrf.com/normadata/1/4294817/4294817037.pdf
@@ -22,8 +25,6 @@
 - ГОСТ 7.32-2017. Система стандартов по информации, библиотечному и издательскому делу. Отчет о научно-исследовательской работе https://www.rea.ru/ru/org/managements/orgnirupr/Documents/gost_7.32-2017.pdf
 - ГОСТ Р 7.0.97-2016. Система стандартов по информации, библиотечному и издательскому делу https://eos.ru/upload/pril_norm_akt/GOST_P_%207.0.97-2016.pdf
 - ГОСТ 8.417-2002. Государственная система обеспечения единства измерений https://astro.insma.urfu.ru/sites/default/files/upload_files/doc/gost_8.417-2002.pdf
-
-- Уайт, Ян В. Редактируем дизайном. — М. Издательский дом «Университетская книга», 2009. — X, 244 с. https://drive.google.com/open?id=1MO2A_MO9rFjAByZQzBafRvUawIuzs-w3
   
 **Руководства по стилю**:
 
