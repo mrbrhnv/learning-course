@@ -6,11 +6,8 @@
 - Профстандарт 197 https://fgosvo.ru/uploadfiles/profstandart/06.019.pdf
 - Книга «Техническая документация информационных систем» http://lib.ulstu.ru/venec/disk/2017/460.pdf
 
-- Стиль изложения документации пользователя программного средства https://philosoft-services.com/standard/gostr_project_styleguide_071207.pdf
-- Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта: (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012 [скачать конспект](resources/Конспект_Кагарлицкий.docx)
 - Разработка технической документации, Вадим Глаголев: https://djvu.online/file/oJAAVWz7GUO8T 
 - Корректура https://moodle.kstu.ru/pluginfile.php/273789/mod_resource/content/1/Корректура.%20Учебник.pdf
-- Гайдлайн по интерфейсам мобильных приложений https://m3.material.io/get-started ([скачать конспект](resources/Терминология_описания_интерфейса.docx))
 
 - Карл Вигерс. Разработка требований к программному обеспечению: https://biconsult.ru/img/bi_portal/Razrabotka_trebovanii_Karl_Vigers.pdf 
 - SRS по Вигерсу https://analytics.infozone.pro/requirements-analysis/template-specification-requirements/ 
@@ -27,15 +24,23 @@
 - ГОСТ 8.417-2002. Государственная система обеспечения единства измерений https://astro.insma.urfu.ru/sites/default/files/upload_files/doc/gost_8.417-2002.pdf
 
 - Уайт, Ян В. Редактируем дизайном. — М. Издательский дом «Университетская книга», 2009. — X, 244 с. https://drive.google.com/open?id=1MO2A_MO9rFjAByZQzBafRvUawIuzs-w3
+  
+**Руководства по стилю**:
 
 - Руководство по стилю русского языка в рамках **локализации** https://www.microsoft.com/ru-ru/language/styleguides (использовать его нужно аккуратно и разумно, не все примеры в нем хороши и не все рекомендации стоит брать на вооружение)
-
 - Методическое и справочное руководство **по переводу на русский язык**, тематическому редактированию, литературной правке и редакционно-издательскому оформлению инженерно-технической документации https://storage.piter.com/upload/new_folder/978538800101/metodichka_2007_04_bp.pdf
+- Стиль изложения документации пользователя программного средства https://philosoft-services.com/standard/gostr_project_styleguide_071207.pdf
+- Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта: (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012 [скачать конспект](resources/Конспект_Кагарлицкий.docx)
 
-- Курс по написанию спецификации API https://starkovden.github.io/openapi-tutorial-overview.html 
+**Редстандарты** (можно вдохновляться):
+
+- Тинькофф-журнал. Руководство для авторов. Максим Ильяхов, Саша Рай, 2014—2019 гг. https://docs.google.com/document/d/14XdGIjVJLM_FsjHzyh5ca8PkffngykzXd2bLPHzA2ME/edit#
+- Модульбанк. Написано в июле 2016, автор — Людмила Сарычева.  https://docs.google.com/document/d/1c_2uP1PpiM12h1ee8egVXAoUCJ9mE9r68zMqrqmS8VA/edit
+- Mailchimp Content Style Guide https://styleguide.mailchimp.com/
 
 **Англоязычная литература**:
 
+- [The Microsoft Manual of Style](https://sbaratz.com/shc/MicrosoftManualOfStyleForTechnicalPublications-V3.pdf); [git-версия The Microsoft Manual of Style](https://github.com/MicrosoftDocs/microsoft-style-guide/blob/main/styleguide/welcome/index.md)
 - Docs for Developers: An Engineer’s Field Guide to Technical Writing (2021). Автор: Jared Bhatti, https://vk.com/doc255577237_616040006?hash=3q9IYa52IoFRnHHtn7hCObEnp9E7HKsK8xhltV5OAUP
 - Technical Writing 101: A Real-World Guide to Planning and Writing Technical Documentation. Автор: Alan S. Pringle, [скачать книгу](resources/Technical_Writing_101.pdf)
 - Список книг по работе с требованиями https://www.processimpact.com/pubs.html
@@ -90,12 +95,6 @@
 - Внешний вид и скриншоты в пользовательской документации. Как надо и не надо делать (Анастасия Дмитриева): https://habr.com/ru/companies/aktiv-company/articles/524838/
 - UML: обзор основных типов диаграмм (цикл статей): Часть 1 [диаграмма классов](https://habr.com/ru/articles/738428/), Часть 2 [диаграмма компонентов](https://habr.com/ru/articles/756552/), Часть 3 [диаграмма объектов](https://habr.com/ru/articles/800849/), [Обзор 14 диаграмм UML](https://habr.com/ru/articles/508710/)
 
-**Редстандарты** (можно вдохновляться):
-
-- Тинькофф-журнал. Руководство для авторов. Максим Ильяхов, Саша Рай, 2014—2019 гг. https://docs.google.com/document/d/14XdGIjVJLM_FsjHzyh5ca8PkffngykzXd2bLPHzA2ME/edit#
-- Модульбанк. Написано в июле 2016, автор — Людмила Сарычева.  https://docs.google.com/document/d/1c_2uP1PpiM12h1ee8egVXAoUCJ9mE9r68zMqrqmS8VA/edit
-- Mailchimp Content Style Guide https://styleguide.mailchimp.com/
-
 **Инструменты**:
 
 - Типограф https://www.artlebedev.ru/typograf/ для улучшения экранной типографики
@@ -113,5 +112,9 @@
 - Docs as code на примере Foliant https://www.youtube.com/watch?v=6CKVodl2YcA (полезное видео про легковесные языки разметки – markdown, reStructuredText, AsciiDoc; про системы контроля версий)
 - Markdown Cheat sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - reStructuredText Cheat Sheet https://docutils.sourceforge.io/rst.html#user-documentation
+
+**Курсы**:
+
+– Курс по написанию спецификации API https://starkovden.github.io/openapi-tutorial-overview.html
 
 
