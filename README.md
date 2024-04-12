@@ -116,7 +116,7 @@
 
 **Курсы**:
 
-– Курс по написанию спецификации API https://starkovden.github.io/openapi-tutorial-overview.html
+- Курс по написанию спецификации API https://starkovden.github.io/openapi-tutorial-overview.html
 
 **UML**:
 
