@@ -2,7 +2,7 @@
 
 **Полезные материалы по курсу технического документирования**:
 
-- Technical Writer. Roadmap for anyone looking for a career in technical writing https://roadmap.sh/technical-writer
+- Technical Writer. Roadmap for anyone looking for a career in technical writing https://roadmap.sh/technical-writer ([русскоязычная версия](https://disk.yandex.ru/i/19b0YNjI-C5W4w))
 - Профстандарт 197 https://fgosvo.ru/uploadfiles/profstandart/06.019.pdf
 - Книга «Техническая документация информационных систем» http://lib.ulstu.ru/venec/disk/2017/460.pdf
 
