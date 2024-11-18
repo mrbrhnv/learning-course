@@ -35,6 +35,7 @@
 - Стиль изложения документации пользователя программного средства https://philosoft-services.com/standard/gostr_project_styleguide_071207.pdf
 - Кагарлицкий, Юрий Валентинович. Разработка документации пользователя программного продукта: (методика и стиль изложения) / Ю. В. Кагарлицкий. - Москва : Философт Сервисы, 2012 [скачать конспект](resources/Конспект_Кагарлицкий.docx)
 - [Шаблон Стайлгайда](https://docs.google.com/document/d/1334t4pITcw0p1nyXCfnh_0pcSWIUzammzBTWEJZA5a8/edit?usp=drivesdk), автор – Полина Никонова
+- [Проект Глоссария](https://github.com/cncf/glossary/blob/91af09ab3e4e4e2888b3ef45a53f560b6599ca2f/content/ru/auto-scaling.md)
 
 **Редстандарты** (можно вдохновляться):
 
