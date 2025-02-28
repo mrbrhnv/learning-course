@@ -132,6 +132,6 @@
 
 **Регулярные выражения (regexp)**:
 
-– Основы https://habr.com/ru/articles/545150/
-– Инструмент самопроверки https://regex101.com/
+- Основы https://habr.com/ru/articles/545150/
+- Инструмент самопроверки https://regex101.com/
 
