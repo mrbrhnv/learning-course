@@ -130,3 +130,8 @@
 - [UML. Основы, 3-е издание. Фаулер Мартин](https://studylib.ru/doc/6262369/uml.-osnovy--martin-fauler-)
 - UML: обзор основных типов диаграмм (цикл статей): Часть 1 [диаграмма классов](https://habr.com/ru/articles/738428/), Часть 2 [диаграмма компонентов](https://habr.com/ru/articles/756552/), Часть 3 [диаграмма объектов](https://habr.com/ru/articles/800849/), [Обзор 14 диаграмм UML](https://habr.com/ru/articles/508710/)
 
+**Регулярные выражения (regexp)**:
+
+– Основы https://habr.com/ru/articles/545150/
+– Инструмент самопроверки https://regex101.com/
+
