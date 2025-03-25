@@ -123,6 +123,7 @@
 
 - Онлайн редакторы PlantText UML: https://www.planttext.com/ и https://plantuml-editor.kkeisuke.com
 - Что такое UML? http://book.uml3.ru/sec_1_1
+- Статьи про разные виды диаграмм с заданиями https://github.com/kolei/PiRIS/blob/master/articles/5_1_1_10_uml_use_case.md 
 - Справочное руководство по языку PlantUML (Version 1.2021.2) https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf [оригинал](https://docs.yandex.ru/docs/view?tm=1726859301&tld=ru&lang=en&name=PlantUML_Language_Reference_Guide.pdf&text=справочное%20руководство%20по%20языку%20plantuml&url=http%3A%2F%2Flib.custis.ru%2Fimages%2Fc%2Fc4%2FPlantUML_Language_Reference_Guide.pdf&lr=213&mime=pdf&l10n=ru&sign=8644480eb1b1cd2e7ca199755939999d&keyno=0&nosw=1&serpParams=tm%3D1726859301%26tld%3Dru%26lang%3Den%26name%3DPlantUML_Language_Reference_Guide.pdf%26text%3D%25D1%2581%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BE%25D1%2587%25D0%25BD%25D0%25BE%25D0%25B5%2B%25D1%2580%25D1%2583%25D0%25BA%25D0%25BE%25D0%25B2%25D0%25BE%25D0%25B4%25D1%2581%25D1%2582%25D0%25B2%25D0%25BE%2B%25D0%25BF%25D0%25BE%2B%25D1%258F%25D0%25B7%25D1%258B%25D0%25BA%25D1%2583%2Bplantuml%26url%3Dhttp%253A%2F%2Flib.custis.ru%2Fimages%2Fc%2Fc4%2FPlantUML_Language_Reference_Guide.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3D8644480eb1b1cd2e7ca199755939999d%26keyno%3D0%26nosw%3D1)
 - Справочное руководство по UML с быстрым стартом https://plantuml.com/ru/deployment-diagram
 - Справочное руководство "Неочевидный PlantUML" https://telegra.ph/non-obvious-plantuml-1-09-23
