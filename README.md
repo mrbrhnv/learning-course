@@ -82,6 +82,7 @@
 - Как писать рук-во пользователя – https://tdocs.su/1391
 - [Рекомендации по оформлению текстов от РИА](resources/Рекомендации_по_оформлению_текстов_от_РИА.pdf)
 - Словарь сокращений https://www.sokr.ru/с./
+- Словарь терминов по фронтенду https://github.com/web-standards-ru/dictionary/blob/main/dictionary.md#deprecated 
 
 **Интересные статьи**:
 
@@ -98,6 +99,7 @@
 - Ланит: О нашем умении писать по-русски IT-документацию https://habr.com/ru/companies/lanit/articles/722224/
 - Внешний вид и скриншоты в пользовательской документации. Как надо и не надо делать (Анастасия Дмитриева): https://habr.com/ru/companies/aktiv-company/articles/524838/
 - Отношение к ТЗ в современных ИТ-проектах: https://habr.com/ru/articles/661695/
+- Continuous Documentation, MVD и документация как продукт: три подхода, которые изменят ваше представление о документации https://habr.com/ru/articles/901254/
 
 **Инструменты**:
 
